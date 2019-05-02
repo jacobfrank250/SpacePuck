@@ -4,3 +4,5 @@
 ## Gameplay
 ### Many Ships To Choose From
 ![](SelectingShips.gif)
+### Compete Online
+![](GameplayGiphy.gif)
