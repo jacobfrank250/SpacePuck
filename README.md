@@ -3,10 +3,10 @@
 
 ## Gameplay
 ### Compete Online
-![](game.gif)
+![](Gifs/game.gif)
 ### Many Ships To Choose From
-![](SelectShip.gif)
+![](Gifs/SelectShip.gif)
 ### Many Balls To Choose From
-![](eyeball.gif)<br/>
-![](HexagonPuck.gif)<br/> 
-![](SunPuck.gif)<br/>
+![](Gifs/eyeball.gif)<br/>
+![](Gifs/HexagonPuck.gif)<br/> 
+![](Gifs/SunPuck.gif)<br/>
