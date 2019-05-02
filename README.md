@@ -7,6 +7,6 @@
 ### Many Ships To Choose From
 ![](Gifs/SelectShip.gif)
 ### Many Balls To Choose From
-![](Gifs/eyeball.gif)<br/>
-![](Gifs/HexagonPuck.gif)<br/> 
-![](Gifs/SunPuck.gif)<br/>
+![](Gifs/eyeball.gif) 
+![](Gifs/HexagonPuck.gif) 
+![](Gifs/SunPuck.gif) 
