@@ -8,4 +8,4 @@
 ![](game.gif)
 
 ### Many Balls To Choose From
-![](eyeball.gif)
+![](eyeball.gif) ![](HexagonPuck.gif)
